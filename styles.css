@@ -1,0 +1,44 @@
+h1 {
+  font-family: "Henny Penny";
+  color: yellow;
+  background-color: darkslateblue;
+  padding: 10px;
+  width: 400px;
+  margin-top: 5px;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZRz4Lzax2Hqg1_cXAiVmeSg4Ox0tP5fQsw&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.message-box {
+  padding: 15px;
+  border: 7px double black;
+  background-color: rgba(255, 255, 255, 0.8);
+  max-width: 300px !important;
+  width: 300px !important;
+}
+
+summary,
+i {
+  color: whitesmoke;
+}
+
+.title {
+  margin-top: 5rem !important;
+}
+
+.shadow{
+  box-shadow: 12px 0.5rem 1rem rgba(0, 0, 0, 0.6) !important;
+}
+
+a {
+  color: cyan;
+}
+
+p{
+  color: black;
+}
